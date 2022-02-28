@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactWebsite/static/css/main.62c0877e.css",
+    "main.js": "/reactWebsite/static/js/main.6034a4a0.js",
+    "static/media/mern.png": "/reactWebsite/static/media/mern.a913e870f61eef7a83f6.png",
+    "static/media/softwareDev.jpg": "/reactWebsite/static/media/softwareDev.575367fc83a1320687b8.jpg",
+    "static/media/pic.jpg": "/reactWebsite/static/media/pic.8dc2eb9cdfa43fe865a5.jpg",
+    "static/media/androiAapp.png": "/reactWebsite/static/media/androiAapp.0193508e0267aa783e25.png",
+    "static/media/webDevelopment.jpg": "/reactWebsite/static/media/webDevelopment.fa368088f66c9fae719e.jpg",
+    "static/media/fullStack.jpg": "/reactWebsite/static/media/fullStack.2d7c01e16c050ef5ffee.jpg",
+    "static/media/hybrid.jpg": "/reactWebsite/static/media/hybrid.1ae31ae11dee10987acb.jpg",
+    "index.html": "/reactWebsite/index.html",
+    "main.62c0877e.css.map": "/reactWebsite/static/css/main.62c0877e.css.map",
+    "main.6034a4a0.js.map": "/reactWebsite/static/js/main.6034a4a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62c0877e.css",
+    "static/js/main.6034a4a0.js"
+  ]
+}
